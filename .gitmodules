@@ -1,0 +1,6 @@
+[submodule "Drivers/BSP/ThirdParty/sarmfsw"]
+	path = Drivers/BSP/ThirdParty/sarmfsw
+	url = https://github.com/SMFSW/sarmfsw.git
+[submodule "Drivers/BSP/ThirdParty/HARMcksL"]
+	path = Drivers/BSP/ThirdParty/HARMcksL
+	url = https://github.com/SMFSW/HARMcksL.git
